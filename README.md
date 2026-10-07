@@ -27,8 +27,6 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
 
 🐭 Working on making this a nice personal website... coming soon!
 
----
-
 ## Tech Stack
 
 ### Languages
@@ -82,8 +80,6 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
   <a href="https://docs.github.com/en/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
 </p>
 
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -97,8 +93,6 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMan73&layout=compact&theme=react&border_color=58a6ff&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
----
 
 ## Open Source Projects
 
@@ -130,8 +124,6 @@ Personal library of structured agent skills, each defined by a `SKILL.md` file w
 </td>
   </tr>
 </table>
-
----
 
 ## Upcoming Projects
 
@@ -170,8 +162,6 @@ I want to learn cloud and backend engineering by building production-style proje
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 </p>
 
----
-
 ## Quick Facts
 
 <p align="left">
@@ -180,8 +170,6 @@ I want to learn cloud and backend engineering by building production-style proje
   <img src="https://img.shields.io/badge/Relocation-Open-gray?style=flat-square&logo=map&logoColor=white" alt="Relocation">
   <img src="https://img.shields.io/badge/Remote-Preferred-blue?style=flat-square&logo=house&logoColor=white" alt="Remote">
 </p>
-
----
 
 <details>
 <summary>📄 Full Career Archive (experience, projects, education, presentations, awards)</summary>
@@ -273,8 +261,6 @@ Modular framework for training specialized Pokémon battle AI agents on fixed te
 | 2023 | George Mason Research Symposium | QuickNosis: On-Device Symptom-to-Diagnosis ML App (solo presenter) |
 
 </details>
-
----
 
 <p align="left">
   <sub>Built with 💖 · Last updated October 2026 · <a href="https://github.com/CoderMan73/CoderMan73">Source</a></sub>
