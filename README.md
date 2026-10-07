@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+Java%2C+Rust%2C+Python%2C+TypeScript;Systems+automation+%26+developer+tooling;Gameplay+%2F+Backend+%2F+Platform+Engineering;Open+to+remote+%26+relocation&center=true&size=17&color=58a6ff&width=600" alt="Typing SVG">
 </p>
 
----
-
 ## About Me
 
 <p align="left">
