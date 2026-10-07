@@ -25,7 +25,7 @@ I'm interested in:
 
 I'm located in Virginia, prefer remote roles, but am open to relocation to major US tech hubs.
 
-🖱️ Working on making this a nice personal website... coming soon!
+🐭 Working on making this a nice personal website... coming soon!
 
 ---
 
