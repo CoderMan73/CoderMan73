@@ -100,7 +100,7 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
   <tr>
     <td width="50%">
 
-### fabric-writer
+### [fabric-writer](https://github.com/CoderMan73/fabric-writer)
 <a href="https://github.com/CoderMan73/fabric-writer"><img src="https://img.shields.io/github/stars/CoderMan73/fabric-writer?style=flat-square" alt="Stars"></a>
 <a href="https://github.com/CoderMan73/fabric-writer"><img src="https://img.shields.io/github/forks/CoderMan73/fabric-writer?style=flat-square" alt="Forks"></a>
 
@@ -113,7 +113,7 @@ An open-source Rust CLI (`clap`, `serde_yaml`, `tera`, `genco`) that scaffolds F
   <tr>
     <td width="50%">
 
-### CoderManSkills
+### [CoderManSkills](https://github.com/CoderMan73/CoderManSkills)
 <a href="https://github.com/CoderMan73/CoderManSkills"><img src="https://img.shields.io/github/stars/CoderMan73/CoderManSkills?style=flat-square" alt="Stars"></a>
 <a href="https://github.com/CoderMan73/CoderManSkills"><img src="https://img.shields.io/github/forks/CoderMan73/CoderManSkills?style=flat-square" alt="Forks"></a>
 
@@ -188,26 +188,26 @@ May 2025 – Jun 2026 · ~15 hrs/week
 
 🟢 Live · 🟡 Active · 🟠 Concept
 
-### 🟢 fabric-writer - Rust CLI for Fabric mod scaffolding
+### 🟢 [fabric-writer](https://github.com/CoderMan73/fabric-writer) - Rust CLI for Fabric mod scaffolding
 **Stack:** Rust (`clap`, `serde_yaml`, `tera`, `genco`, `cargo`) · Docker
 
 An open-source Rust CLI that scaffolds Fabric Minecraft mod projects, tracks items/blocks/recipes in a YAML state file, and regenerates clean Java/JSON sources via code generation. Ships via `cargo install` with CI-verified `main` (clippy + fmt + docs + tests pass). Dockerized dev loop with integration tests. Licensed GPL-3.0.
 
 **Key achievement:** Scope grew beyond solo maintainability (3,185-line experimental dimension preset), so the project was frozen - preserving a reviewed `main` tier and archiving the AI-generated PoC with an explicit disclaimer rather than shipping unreviewed code.
 
-### 🟢 EZ Spot - Automated faculty evaluation pipeline
+### 🟢 [EZ Spot](https://github.com/CoderMan73/ezspot) - Automated faculty evaluation pipeline
 **Stack:** TypeScript · React · Node.js · Express · Python (Flask) · MongoDB · Docker Compose · Kubernetes · CAS SSO
 
 Full-stack web app deployed to Virginia Tech's Kubernetes infrastructure. Replaced a manual process that took over one week with an automated pipeline targeting under one minute with zero errors. As the team's infrastructure owner, configured Kubernetes ingress, services, and environment configurations.
 
 **Key achievements:** Implemented CAS SSO in TypeScript · Built Docker Compose dev environment · Wrote maintainer docs for VT Enrollment Services handoff · Deployed to production K8s
 
-### 🟢 QuickNosis - Symptom-to-diagnosis ML app
+### 🟢 [QuickNosis](https://github.com/CoderMan73/quicknosis) - Symptom-to-diagnosis ML app
 **Stack:** Kotlin · Java · TensorFlow · Android Studio · REST APIs
 
 Machine learning classification app that predicts diagnoses from symptom inputs. Designed and trained a TensorFlow model on a public dataset, built an Android app prototype running on-device inference, and taught myself Android development from scratch. Presented at the George Mason research symposium as a solo presenter.
 
-### 🟡 CoderManSkills - Agent skills library
+### 🟡 [CoderManSkills](https://github.com/CoderMan73/CoderManSkills) - Agent skills library
 **Stack:** Markdown · YAML frontmatter · Python (tooling)
 
 Personal library of structured agent skills, each defined by a `SKILL.md` file with behavioral guidelines. Active skills: `concept-architect` (refines vague ideas into technical specs), `create-skill` (generates new SKILL.md files), `improve-skill` (post-mortem analysis of skill interactions).
