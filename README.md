@@ -84,13 +84,13 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=CoderMan73&show_icons=true&theme=react&border_color=58a6ff&hide_border=true" alt="GitHub Stats" />
+    <img width="300" src="https://github-stats-extended.vercel.app/api?username=CoderMan73&show_icons=true&theme=react&border_color=58a6ff&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img width="300" src="https://streak-stats.demolab.com/?user=CoderMan73&theme=react&border_color=58a6ff&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMan73&layout=compact&theme=react&border_color=58a6ff&hide_border=true" alt="Top Languages" />
+    <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CoderMan73&layout=compact&theme=react&border_color=58a6ff&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -120,6 +120,45 @@ An open-source Rust CLI (`clap`, `serde_yaml`, `tera`, `genco`) that scaffolds F
 **Agent skills library**
 
 Personal library of structured agent skills, each defined by a `SKILL.md` file with behavioral guidelines. Active skills: `concept-architect` (refines vague ideas into technical specs), `create-skill` (generates new SKILL.md files), `improve-skill` (post-mortem analysis of skill interactions).
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### [EZ Spot](https://github.com/CoderMan73/ezspot)
+<a href="https://github.com/CoderMan73/ezspot"><img src="https://img.shields.io/github/stars/CoderMan73/ezspot?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/ezspot"><img src="https://img.shields.io/github/forks/CoderMan73/ezspot?style=flat-square" alt="Forks"></a>
+
+**Automated faculty evaluation pipeline**
+
+Full-stack web app deployed to Virginia Tech's Kubernetes infrastructure. Replaced a manual process that took over one week with an automated pipeline targeting under one minute with zero errors.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### [QuickNosis](https://github.com/CoderMan73/quicknosis)
+<a href="https://github.com/CoderMan73/quicknosis"><img src="https://img.shields.io/github/stars/CoderMan73/quicknosis?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/quicknosis"><img src="https://img.shields.io/github/forks/CoderMan73/quicknosis?style=flat-square" alt="Forks"></a>
+
+**Symptom-to-diagnosis ML app**
+
+Machine learning classification app that predicts diagnoses from symptom inputs. Designed and trained a TensorFlow model on a public dataset and built an Android app prototype with on-device inference.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+### [future-projects](https://github.com/CoderMan73/future-projects)
+<a href="https://github.com/CoderMan73/future-projects"><img src="https://img.shields.io/github/stars/CoderMan73/future-projects?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/future-projects"><img src="https://img.shields.io/github/forks/CoderMan73/future-projects?style=flat-square" alt="Forks"></a>
+
+**Development pipeline planning workspace**
+
+Tracks project ideas from a concept through planning, active implementation, and finally into research and archival.
 
 </td>
   </tr>
