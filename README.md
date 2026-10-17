@@ -83,18 +83,18 @@ I'm located in Virginia, prefer remote roles, but am open to relocation to major
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img width="300" src="https://github-stats-extended.vercel.app/api?username=CoderMan73&show_icons=true&theme=react&border_color=58a6ff&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img width="300" src="https://streak-stats.demolab.com/?user=CoderMan73&theme=react&border_color=58a6ff&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CoderMan73&layout=compact&theme=react&border_color=58a6ff&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
-## Open Source Projects
+## Pinned Projects
 
 <table>
   <tr>
@@ -113,52 +113,39 @@ An open-source Rust CLI (`clap`, `serde_yaml`, `tera`, `genco`) that scaffolds F
   <tr>
     <td width="50%">
 
-### [CoderManSkills](https://github.com/CoderMan73/CoderManSkills)
-<a href="https://github.com/CoderMan73/CoderManSkills"><img src="https://img.shields.io/github/stars/CoderMan73/CoderManSkills?style=flat-square" alt="Stars"></a>
-<a href="https://github.com/CoderMan73/CoderManSkills"><img src="https://img.shields.io/github/forks/CoderMan73/CoderManSkills?style=flat-square" alt="Forks"></a>
+### [craftlatro](https://github.com/CoderMan73/craftlatro)
+<a href="https://github.com/CoderMan73/craftlatro"><img src="https://img.shields.io/github/stars/CoderMan73/craftlatro?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/craftlatro"><img src="https://img.shields.io/github/forks/CoderMan73/craftlatro?style=flat-square" alt="Forks"></a>
 
-**Agent skills library**
+**Playable Balatro in Minecraft**
 
-Personal library of structured agent skills, each defined by a `SKILL.md` file with behavioral guidelines. Active skills: `concept-architect` (refines vague ideas into technical specs), `create-skill` (generates new SKILL.md files), `improve-skill` (post-mortem analysis of skill interactions).
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-### [EZ Spot](https://github.com/CoderMan73/ezspot)
-<a href="https://github.com/CoderMan73/ezspot"><img src="https://img.shields.io/github/stars/CoderMan73/ezspot?style=flat-square" alt="Stars"></a>
-<a href="https://github.com/CoderMan73/ezspot"><img src="https://img.shields.io/github/forks/CoderMan73/ezspot?style=flat-square" alt="Forks"></a>
-
-**Automated faculty evaluation pipeline**
-
-Full-stack web app deployed to Virginia Tech's Kubernetes infrastructure. Replaced a manual process that took over one week with an automated pipeline targeting under one minute with zero errors.
+Minecraft mod that implements a playable version of Balatro's poker roguelike gameplay within the game. Written in Java.
 
 </td>
   </tr>
   <tr>
     <td width="50%">
 
-### [QuickNosis](https://github.com/CoderMan73/quicknosis)
-<a href="https://github.com/CoderMan73/quicknosis"><img src="https://img.shields.io/github/stars/CoderMan73/quicknosis?style=flat-square" alt="Stars"></a>
-<a href="https://github.com/CoderMan73/quicknosis"><img src="https://img.shields.io/github/forks/CoderMan73/quicknosis?style=flat-square" alt="Forks"></a>
+### [craftleste](https://github.com/CoderMan73/craftleste)
+<a href="https://github.com/CoderMan73/craftleste"><img src="https://img.shields.io/github/stars/CoderMan73/craftleste?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/craftleste"><img src="https://img.shields.io/github/forks/CoderMan73/craftleste?style=flat-square" alt="Forks"></a>
 
-**Symptom-to-diagnosis ML app**
+**Playable Celeste in Minecraft**
 
-Machine learning classification app that predicts diagnoses from symptom inputs. Designed and trained a TensorFlow model on a public dataset and built an Android app prototype with on-device inference.
+Minecraft mod that implements a playable version of Celeste's platformer within the game. Written in Java.
 
 </td>
   </tr>
   <tr>
     <td width="50%">
 
-### [future-projects](https://github.com/CoderMan73/future-projects)
-<a href="https://github.com/CoderMan73/future-projects"><img src="https://img.shields.io/github/stars/CoderMan73/future-projects?style=flat-square" alt="Stars"></a>
-<a href="https://github.com/CoderMan73/future-projects"><img src="https://img.shields.io/github/forks/CoderMan73/future-projects?style=flat-square" alt="Forks"></a>
+### [craftraria](https://github.com/CoderMan73/craftraria)
+<a href="https://github.com/CoderMan73/craftraria"><img src="https://img.shields.io/github/stars/CoderMan73/craftraria?style=flat-square" alt="Stars"></a>
+<a href="https://github.com/CoderMan73/craftraria"><img src="https://img.shields.io/github/forks/CoderMan73/craftraria?style=flat-square" alt="Forks"></a>
 
-**Development pipeline planning workspace**
+**Playable Terraria in Minecraft**
 
-Tracks project ideas from a concept through planning, active implementation, and finally into research and archival.
+Minecraft mod that implements a playable version of Terraria's sandbox adventure within the game. Written in Java.
 
 </td>
   </tr>
@@ -250,6 +237,21 @@ Machine learning classification app that predicts diagnoses from symptom inputs.
 **Stack:** Markdown · YAML frontmatter · Python (tooling)
 
 Personal library of structured agent skills, each defined by a `SKILL.md` file with behavioral guidelines. Active skills: `concept-architect` (refines vague ideas into technical specs), `create-skill` (generates new SKILL.md files), `improve-skill` (post-mortem analysis of skill interactions).
+
+### 🟡 [craftlatro](https://github.com/CoderMan73/craftlatro) - Playable Balatro in Minecraft
+**Stack:** Java · Minecraft
+
+Minecraft mod that implements a playable version of Balatro's poker roguelike gameplay within the game.
+
+### 🟡 [craftleste](https://github.com/CoderMan73/craftleste) - Playable Celeste in Minecraft
+**Stack:** Java · Minecraft
+
+Minecraft mod that implements a playable version of Celeste's platformer within the game.
+
+### 🟡 [craftraria](https://github.com/CoderMan73/craftraria) - Playable Terraria in Minecraft
+**Stack:** Java · Minecraft
+
+Minecraft mod that implements a playable version of Terraria's sandbox adventure within the game.
 
 ### 🟠 team-perfection-tool (Emerald) - Evolutionary team optimizer
 **Stack:** Rust · Pokémon Showdown · Gen 3 data
